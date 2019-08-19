@@ -26,12 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    Express Router and 
+
 - [ ] Describe Middleware?
+
+    Middleware allows us to expand and customize our server
 
 - [ ] Describe a Resource?
 
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    Status code
+    
 - [ ] How can we partition our application into sub-applications?
 
 ## Project Setup
